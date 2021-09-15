@@ -1,0 +1,31 @@
+.taskThree {
+  padding: 1rem;
+}
+.twiterIcon {
+  color: #1da1f2;
+  font-size: 2em;
+}
+h1 {
+  font-size: 3.7em;
+}
+h4 {
+  font-size: 1.8em;
+}
+.btn {
+  width: 20rem;
+  height: 3rem;
+  margin-bottom: 1rem;
+  border-radius: 50px;
+  border: none;
+  font-weight: 700;
+}
+
+.blueWithWhite {
+  color: white;
+  background-color: #1da1f2;
+}
+.whiteWithBlue {
+  background-color: white;
+  color: #1da1f2;
+  border: 1px solid #1da1f2;
+}
